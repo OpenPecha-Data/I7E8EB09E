@@ -1,0 +1,47 @@
+id: e8859c640c15490b8b84389307c21760
+annotation_type: index
+revision: '00001'
+annotations:
+  7b5b733751af44d981589c4f07cbe649:
+    base: 44CB.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 44
+    - title: Homage
+      span:
+        start: 45
+        end: 288
+    - title: Short §1
+      span:
+        start: 289
+        end: 758
+    - title: Short §2
+      span:
+        start: 759
+        end: 1083
+    - title: Short §3
+      span:
+        start: 1084
+        end: 1131
+    - title: Short §4
+      span:
+        start: 1132
+        end: 1511
+    - title: Short §5
+      span:
+        start: 1512
+        end: 1642
+    - title: Short §6
+      span:
+        start: 1643
+        end: 1904
+    - title: Short §7
+      span:
+        start: 1905
+        end: 2677
+    - title: Colophon
+      span:
+        start: 2678
+        end: 2688
